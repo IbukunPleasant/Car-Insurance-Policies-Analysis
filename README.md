@@ -80,7 +80,7 @@ The dataset includes:
 
 1.	**Policy Pricing**
    
-  Adjust pricing models for high-frequency segments like private car users, urban/suburban coverage zones, and Bachelor-educated policyholders.
+• Adjust pricing models for high-frequency segments like private car users, urban/suburban coverage zones, and Bachelor-educated policyholders.
   
 2.	**Risk Mitigation**
    
