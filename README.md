@@ -93,7 +93,7 @@ The dataset includes:
 
 4.	**Customer Segmentation**
 
-• Low claim frequencies for PhD holders and rural zones suggest lower risk segments—opportunity for targeted low-premium policies.
+• Low claim frequencies for PhD holders and rural zones suggest lower risk segments opportunity for targeted low-premium policies.
 
 5.	**Retention Strategy**
 
