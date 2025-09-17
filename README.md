@@ -3,7 +3,10 @@
 An interactive Excel dashboard analyzing a car insurance company’s policies for August 2023, covering claim patterns, demographics, and vehicle-related insights to guide business decisions in underwriting, pricing, and risk management.
 
 # Dashboard Preview
-<img width="1709" height="762" alt="CAR INSURANCE POLICIES AUG  2023" src="https://github.com/user-attachments/assets/95cf545a-29e0-470f-86d4-064c20e6c58f" />
+
+<img width="677" height="383" alt="CAR INSURANCE POLICIES DASHBOARD1" src="https://github.com/user-attachments/assets/f73d2e85-a09a-4bb3-aaa5-6e8856e517cd" />
+
+
 
 
 # 📊 Project Overview
