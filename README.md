@@ -98,9 +98,7 @@ The dataset includes:
 
 # 🛠️ Tools & Techniques
 
-•	**Power BI**: KPI Cards, Bar Charts, Pie Charts, Donut Charts, Filters/Slicers.
-
-•	**Microsoft Excel**: Data preprocessing and cleaning.
+•	**Microsoft Excel**: Data preprocessing, cleaning,pivot tables, KPI Cards, Bar Charts, Pie Charts, Donut Charts and Filters/Slicers.
 
 •	**Data Storytelling**: Clear, insight-driven layout highlighting risk and opportunity areas.
 
